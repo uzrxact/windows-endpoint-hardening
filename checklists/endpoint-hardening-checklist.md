@@ -3,7 +3,7 @@
 This checklist tracks security controls applied to a Windows endpoint.
 
 ## Defender
-- [ ] ASR rules selected and justified
+- [X] ASR rules selected and justified
 - [ ] Tamper Protection enabled
 
 ## Accounts
