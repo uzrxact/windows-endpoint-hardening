@@ -1,0 +1,1 @@
+Get-MpPreference | Select-Object -ExpandProperty AttackSurfaceReductionRules_Ids
